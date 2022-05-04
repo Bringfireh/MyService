@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace MyService
 {
-    public partial class Service1 : ServiceBase
+    public partial class Scheduler : ServiceBase
     {
-        public Service1()
+        public Scheduler()
         {
             InitializeComponent();
         }
